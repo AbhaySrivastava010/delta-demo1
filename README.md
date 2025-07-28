@@ -1,2 +1,7 @@
 # delta-demo1
 This is a demo for Github class .
+
+# Teacher
+abhay srivastava
+# student 
+boys
